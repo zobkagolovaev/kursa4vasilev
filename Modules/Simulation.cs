@@ -32,6 +32,5 @@ namespace kursa4vasilev.Modules
             _isActive = false; 
         }
     }
-    int a = 5;
-
+    float b = 917845;
 }
