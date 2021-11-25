@@ -31,6 +31,6 @@ namespace kursa4vasilev.Modules
         {
             _isActive = false; 
         }
+        float b = 917845;
     }
-    float b = 917845;
 }
