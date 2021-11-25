@@ -1,0 +1,13 @@
+C:\Users\D7\Desktop\vasilev\kursa4vasilev\obj\Debug\kursa4vasilev.csprojAssemblyReference.cache
+C:\Users\D7\Desktop\vasilev\kursa4vasilev\obj\Debug\kursa4vasilev.Properties.Resources.resources
+C:\Users\D7\Desktop\vasilev\kursa4vasilev\obj\Debug\kursa4vasilev.Form1.resources
+C:\Users\D7\Desktop\vasilev\kursa4vasilev\obj\Debug\kursa4vasilev.csproj.GenerateResource.cache
+C:\Users\D7\Desktop\vasilev\kursa4vasilev\obj\Debug\kursa4vasilev.csproj.CoreCompileInputs.cache
+C:\Users\D7\Desktop\vasilev\kursa4vasilev\bin\Debug\kursa4vasilev.exe
+C:\Users\D7\Desktop\vasilev\kursa4vasilev\bin\Debug\kursa4vasilev.pdb
+C:\Users\D7\Desktop\vasilev\kursa4vasilev\bin\Debug\YourRailWayLibrary.dll
+C:\Users\D7\Desktop\vasilev\kursa4vasilev\bin\Debug\YourRailWayLibrary.pdb
+C:\Users\D7\Desktop\vasilev\kursa4vasilev\obj\Debug\kursa4vasilev.csproj.CopyComplete
+C:\Users\D7\Desktop\vasilev\kursa4vasilev\obj\Debug\kursa4vasilev.exe
+C:\Users\D7\Desktop\vasilev\kursa4vasilev\obj\Debug\kursa4vasilev.pdb
+C:\Users\D7\Desktop\vasilev\kursa4vasilev\bin\Debug\kursa4vasilev.exe.config

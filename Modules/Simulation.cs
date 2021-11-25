@@ -33,5 +33,5 @@ namespace kursa4vasilev.Modules
         }
     }
     int a = 5;
-
+    int b = 094305;
 }
