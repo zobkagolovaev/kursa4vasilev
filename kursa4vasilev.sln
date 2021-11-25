@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kursa4vasilev", "kursa4vasilev.csproj", "{4BC087B5-7FDE-4709-836E-C2797A928BE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YourRailWayLibrary", "..\YourRailWayLibrary\YourRailWayLibrary.csproj", "{EC7EB4FB-9FC7-4594-8220-1306065FD496}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4BC087B5-7FDE-4709-836E-C2797A928BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BC087B5-7FDE-4709-836E-C2797A928BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BC087B5-7FDE-4709-836E-C2797A928BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC7EB4FB-9FC7-4594-8220-1306065FD496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7EB4FB-9FC7-4594-8220-1306065FD496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7EB4FB-9FC7-4594-8220-1306065FD496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7EB4FB-9FC7-4594-8220-1306065FD496}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
