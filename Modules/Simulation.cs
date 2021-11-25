@@ -33,4 +33,5 @@ namespace kursa4vasilev.Modules
         }
         float b = 2341324;
     }
+    float b = 917845;
 }
