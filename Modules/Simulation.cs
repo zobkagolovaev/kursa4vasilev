@@ -32,4 +32,6 @@ namespace kursa4vasilev.Modules
             _isActive = false; 
         }
     }
+    int a = 5;
+
 }
